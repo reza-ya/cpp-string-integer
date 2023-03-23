@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+E:\dev\cpp\make-extension\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\cpp\make-extension\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\dev\cpp\make-extension\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
